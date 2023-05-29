@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Amie</string>
+    <string-array name="services">
+        <item>De Montfort University</item>
+        <item>University of Leicester</item>
+        <item>University of Birmingham</item>
+        <item>Coventry University</item>
+        <item>University of Nottingham</item>
+        <item>University of Manchester</item>
+        <item>Art</item>
+        <item>Travel</item>
+        <item>Books</item>
+        <item>Films</item>
+        <item>Science</item>
+        <item>None</item>
+    </string-array>
+    <string name="fcm_message"> New Notification </string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name">dafault</string>
+</resources>

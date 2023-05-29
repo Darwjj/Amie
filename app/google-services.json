@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577027672419",
+    "firebase_url": "https://amiefriends-7c7c6-default-rtdb.firebaseio.com",
+    "project_id": "amiefriends-7c7c6",
+    "storage_bucket": "amiefriends-7c7c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577027672419:android:9052f33a82ed078aa26b56",
+        "android_client_info": {
+          "package_name": "com.example.amie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577027672419-gb066ic82cp02ugdui6r6ntbre2m19c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn9f0yezHuPiIpKt3AYH9lEvKS9GXkmrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577027672419-gb066ic82cp02ugdui6r6ntbre2m19c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
